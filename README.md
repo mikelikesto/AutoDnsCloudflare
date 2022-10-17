@@ -23,4 +23,4 @@ To Run the command mannaully, Type
     cldns
 -----------------
 
-
+Configure: 
