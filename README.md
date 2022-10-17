@@ -24,3 +24,6 @@ To Run the command mannaully, Type
 -----------------
 
 # Configure
+
+
+To configure AutoCloudFlareDns (in short cldns), you must first find your domains token. To do this you must login in to your cloud flare account and 
