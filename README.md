@@ -24,5 +24,3 @@ To Run the command mannaully, Type
 -----------------
 
 
-
-        Configure 
